@@ -105,4 +105,52 @@ li:hover{
     margin-right: 0px;
 }
 
+/* Navbar Links Contents*/
+#top-navbar-1 ul li a {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 14px;
+    color: white;
+    font-weight: 400;
+    text-transform: uppercase;
+}
 
+/* Logo GN */
+
+#logo-brand {
+    color: white;
+    cursor: pointer;
+
+}
+
+.affix {
+    top: 0;
+    padding: 0;
+    opacity: 0.8;
+    background-color: black;
+}
+
+/* ---------- Nav Button Hover Effect ---------- */
+
+.nav_btn {
+    position: relative;
+}
+
+.nav_btn:after {
+    position: absolute;
+    bottom: 2px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 0%;
+    content: '.';
+    color: transparent;
+    background: #aaa;
+    height: 3px;
+}
+
+.nav_btn:hover:after {
+    width: 100%;
+}
+
+
+  
