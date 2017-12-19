@@ -61,3 +61,48 @@ section {
     min-width: 45em;
     overflow: hidden;
 }
+
+h2 {
+    font-size: 45px;
+    font-weight: 300;
+    font-family: 'Lato', sans-serif;
+}
+ul {
+    list-style-type: none;
+}
+
+.container {
+    width: 95%;
+}
+
+.section_title {
+    text-align: center;
+    /* color: white; */
+}
+
+/* ---------- Navbar ---------- */
+
+.navbar {
+    padding-top: 1em;
+    background: transparent;
+    border: 0;
+    opacity: 0.8;
+    transition: all 0.2s ease-in;
+}
+
+li {
+    cursor: pointer;
+}
+
+li:hover{
+        transition: all 0.9s;
+        background-color:blue;
+    }
+
+/* Navbar links div */
+
+#top-navbar-links {
+    margin-right: 0px;
+}
+
+
