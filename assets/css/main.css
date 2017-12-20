@@ -265,3 +265,46 @@ li:hover{
     width: 100%;
     overflow: hidden;
 }
+
+.skill_item h3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+
+.skill_item h4 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+}
+
+.skill_item div {
+    padding: 0.75em;
+    width: 100%;
+    float: left;
+}
+
+#front_end_card div {
+    width: 50%;
+}
+
+.skill_item_title {
+    text-align: center;
+}
+
+#skills_title {
+    background-color: transparent;
+    color: black;
+    padding: 0.1em;
+}
+
+/* .skill_list_item {} */
+
+
+/* .skill_col {} */
+
+
+.programming_logos {
+    height: 3em;
+    width: 3em;
+    margin-right: 0.5em;
+    float: left;
+}
