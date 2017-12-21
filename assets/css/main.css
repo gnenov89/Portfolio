@@ -216,6 +216,12 @@ li:hover{
 
 /* ---------- About Me Section ---------- */
 
+div#hello_text.col-md-10.col-lg-10 p {
+
+    text-align: center;
+    margin-top: 50px;
+
+}
 #aboutpage {
     background-color: #1D1D1D;
     color: white;
@@ -296,10 +302,10 @@ li:hover{
     padding: 0.1em;
 }
 
-.skill_list_item {}
+/* .skill_list_item {}
 
 
-.skill_col {}
+.skill_col {} */
 
 
 
@@ -321,12 +327,17 @@ li:hover{
     display: block;
     margin: 0 auto;
 }
+#programming {
+margin:auto;
+width: 30%;
+padding: 10px;
 
+}
 .card-5 {
     box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
   }
 
-  /* ---------- Resume Section ---------- */
+  /* ---------- Resume section ---------- */
 
   #resumepage {
     background-color: #2B2B2B;
@@ -347,3 +358,24 @@ li:hover{
     height: 1250px;
     width: 800px;
 }
+
+/* ---------------------------- */
+
+/* ---------- Contact Section ---------- */
+
+#contactpage {
+    background-color: skyblue;
+    color: white;
+    padding-bottom: 3em;
+}
+
+
+.contact_content {
+    padding-top: 2em;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+/* ---------------------------- */
