@@ -262,15 +262,17 @@ div#hello_text.col-md-10.col-lg-10 p {
     padding-bottom: 2em;
 }
 
-.skill_item {
+.skill_item{
     background-color: white;
+    border-radius: 25px;
     color: black;
     margin: 1em;
     padding: 1em;
-    height: 27em;
+    height: 37em;
     width: 100%;
     overflow: hidden;
 }
+
 
 .skill_item h3 {
     font-family: 'Lato', sans-serif;
@@ -328,9 +330,7 @@ div#hello_text.col-md-10.col-lg-10 p {
     margin: 0 auto;
 }
 #programming {
-margin:auto;
-width: 30%;
-padding: 10px;
+
 
 }
 .card-5 {
