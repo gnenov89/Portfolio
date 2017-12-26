@@ -238,6 +238,7 @@ div#hello_text.col-md-10.col-lg-10 p {
 }
 
 #hello_text {
+    text-align: center;
     height: 100%;
     align-items: stretch;
     font-family: 'Raleway';
