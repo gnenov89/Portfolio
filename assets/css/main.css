@@ -241,9 +241,11 @@ div#hello_text.col-md-10.col-lg-10 p {
     height: 100%;
     align-items: stretch;
     font-family: 'Raleway';
-    font-size: 20px;
+    font-size: 25px;
     color: #BDBAB9;
 }
+
+
 
 /* ---------------------------- */
 
@@ -367,6 +369,16 @@ div#hello_text.col-md-10.col-lg-10 p {
     background-color: skyblue;
     color: white;
     padding-bottom: 3em;
+}
+
+#stack{
+    color: white;
+}
+
+#stack:hover{
+    color: pink;
+    transition: all 0.8s;
+
 }
 
 
