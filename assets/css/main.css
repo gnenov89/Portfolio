@@ -244,6 +244,16 @@ div#hello_text.col-md-10.col-lg-10 p {
     display: flex;
 }
 
+img.img-circle{
+    float:left;
+    /* margin-right:10px; */
+    
+}
+
+div#hello_logo.col-md-2.col-lg-2{
+   
+}
+
 #hello_logo {
     align-items: stretch;
     text-align: center;
