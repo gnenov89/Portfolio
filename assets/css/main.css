@@ -244,16 +244,6 @@ div#hello_text.col-md-10.col-lg-10 p {
     display: flex;
 }
 
-img.img-circle{
-    float:left;
-    /* margin-right:10px; */
-    
-}
-
-div#hello_logo.col-md-2.col-lg-2{
-   
-}
-
 #hello_logo {
     align-items: stretch;
     text-align: center;
@@ -265,6 +255,11 @@ div#hello_logo.col-md-2.col-lg-2{
     font-family: 'Raleway';
     font-size: 25px;
     color: #BDBAB9;
+}
+
+img.rounded.float-left{
+    border-radius: 50%;
+    border: 1px solid white;
 }
 
 
@@ -388,6 +383,7 @@ div#hello_logo.col-md-2.col-lg-2{
     background-color: skyblue;
     color: white;
     padding-bottom: 3em;
+    border-top:3px solid white;
 }
 
 #stack{
