@@ -259,7 +259,7 @@ div#hello_text.col-md-10.col-lg-10 p {
 
 img.rounded.float-left{
     border-radius: 50%;
-    border: 1px solid white;
+    /* border: 1px solid white; */
 }
 
 
@@ -383,7 +383,7 @@ img.rounded.float-left{
     background-color: skyblue;
     color: white;
     padding-bottom: 3em;
-    border-top:3px solid white;
+   
 }
 
 #stack{
