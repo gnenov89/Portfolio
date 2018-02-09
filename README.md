@@ -1,1 +1,1 @@
-https://gnenov89.github.io/Portfolio/ 
+www.georginenov.com
